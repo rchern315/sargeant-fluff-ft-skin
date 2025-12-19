@@ -1,0 +1,5 @@
+{
+  "name": "Fortnite Furry Ops: Skin Generator",
+  "description": "A high-end interface for generating custom Fortnite-style character skins using the Gemini API. Specifically optimized for creating unique bipedal animal skins with tactical military themes.",
+  "requestFramePermissions": []
+}
